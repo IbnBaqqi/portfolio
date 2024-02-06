@@ -1,9 +1,9 @@
 # Welcome to My Portfolio Website!
 __________________________________
-# Portfolio Link: https://oliewu.github.io/
+# Portfolio Link: https://ibnbaqqi.github.io/portfolio/
 
 
-Hello and welcome to my portfolio website! My name is Abdulbaki Salaudeen, and I am currently a Computer Science student at Centria University of Applied Scinece in kokkola, Finland. Thank you for taking the time to visit my website and learn more about my skills, work experience, and projects.
+Hello and welcome to my portfolio website! My name is Abdulbaki Salaudeen, and I am currently a Computer Science student at Centria University of Applied Science in Kokkola, Finland. Thank you for taking the time to visit my website and learn more about my skills, work experience, and projects.
 
 ## About Me
 
